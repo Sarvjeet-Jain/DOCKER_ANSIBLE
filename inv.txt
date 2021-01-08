@@ -1,0 +1,2 @@
+[webserver]
+192.168.43.249 ansible_user=root ansible_ssh_pass=sarvjeet 
